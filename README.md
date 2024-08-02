@@ -1,13 +1,3 @@
-**Portfolio**
-Live Preview - [Click Here](https://gurusheshp.vercel.app/)
-
-<br/>
-<div align="center">
-  <img alt="Demo" src="public/mockup.png" />
-</div>
-<br/>
-<br/>
-
 # 🛠 Installation and Setup Instructions
 
 Clone down this repository. You will need node.js and git installed globally on your machine..
