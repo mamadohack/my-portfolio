@@ -1,38 +1,39 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
+    img: "ptaxxx.png",
+    title: "PUBLIC TENDERS ALGERIA",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "the PTA Solution is a web application that allows you to search for public tenders in Algeria .(i made the Front-end Side for this startup)",
+    tech_stack: "Html, Css, Javascript, Bootstrap",
+    github_url: "https://publictendersalgeria.com/",
+    demo_url: "https://publictendersalgeria.com/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    img: "achiri.png",
+    title: "Doctor Portfolio Landing Page",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "An online portfolio where the doctor introduces himself and his specialty and displays his most successful surgical operations.",
+    tech_stack: "Html, Css, Javascript, Tailwindcss",
+    github_url: "https://github.com/mamadohack/Doctor-Achiri-Landing-Page",
+    demo_url: "https://mamadohack.github.io/Doctor-Achiri-Landing-Page/public/",
+  },
+  {
+    img: "travel.jpg",
+    title: "Traveler Web-App",
+    description: "Traveler is travel agency webapp.(Currently landing page only)",
+    tech_stack: "Next Js, Tailwindcss, FramerMotion, TypeScript",
+    github_url: "https://github.com/mamadohack/Traveler-Web-App",
+    demo_url: "https://github.com/mamadohack/Traveler-Web-App/",
+  },
+  {
+    img: "storebing.png",
+    title: "Ecommerce Web-App",
+    description:
+      "An advanced e-commerce application designed for women’s to provide a seamless and engaging shopping experience for users..",
+    tech_stack: "Next Js, FramerMotion, TypeScript, Redux, Graphql, Js-cookie, react-auth-kit for Authentication, react-hook-form, Zod for FormValidation ..etc",
+    github_url: "https://github.com/mamadohack/That-s-Vigor-store?tab=readme-ov-file",
+    demo_url: "https://www.youtube.com/watch?v=nwvPqte6V8E",
   },
 ];
 

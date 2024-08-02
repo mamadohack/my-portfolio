@@ -19,7 +19,11 @@ export const CardLeft = styled.div`
   border-radius: 5px;
   padding: 5px;
   justify-self: center;
-
+      align-self: center;
+  transition:300ms ease-in-out;
+  &:hover {
+  background-color:rgb(57, 134, 250);
+  }
   img {
     border-radius: 3px;
     height: auto;
@@ -35,6 +39,7 @@ export const CardRight = styled.div`
   h4 {
     font-size: 1.5rem;
     font-weight: 400;
+
   }
 
   p {
