@@ -10,6 +10,15 @@ export const ProjectList = [
     demo_url: "https://publictendersalgeria.com/",
   },
   {
+    img: "storebing.png",
+    title: "Ecommerce Web-App",
+    description:
+      "An advanced e-commerce application designed for women’s to provide a seamless and engaging shopping experience for users..",
+    tech_stack: "Next Js, FramerMotion, TypeScript, Redux, Graphql, Js-cookie, react-auth-kit for Authentication, react-hook-form, Zod for FormValidation ..etc",
+    github_url: "https://github.com/mamadohack/That-s-Vigor-store?tab=readme-ov-file",
+    demo_url: "https://www.youtube.com/watch?v=nwvPqte6V8E",
+  },
+  {
     img: "achiri.png",
     title: "Doctor Portfolio Landing Page",
     description:
@@ -25,16 +34,7 @@ export const ProjectList = [
     tech_stack: "Next Js, Tailwindcss, FramerMotion, TypeScript",
     github_url: "https://github.com/mamadohack/Traveler-Web-App",
     demo_url: "https://github.com/mamadohack/Traveler-Web-App/",
-  },
-  {
-    img: "storebing.png",
-    title: "Ecommerce Web-App",
-    description:
-      "An advanced e-commerce application designed for women’s to provide a seamless and engaging shopping experience for users..",
-    tech_stack: "Next Js, FramerMotion, TypeScript, Redux, Graphql, Js-cookie, react-auth-kit for Authentication, react-hook-form, Zod for FormValidation ..etc",
-    github_url: "https://github.com/mamadohack/That-s-Vigor-store?tab=readme-ov-file",
-    demo_url: "https://www.youtube.com/watch?v=nwvPqte6V8E",
-  },
+  }
 ];
 
 // --------------------------------------- Skills
