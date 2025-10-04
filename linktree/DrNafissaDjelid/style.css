@@ -46,10 +46,10 @@ footer {
 }
 
 #userPhoto {
-  width: 130px;
-  height: 130px;
+  width: 170px;
+  height: 170px;
   display: block;
-  margin: 35px auto 20px;
+  margin: 20px auto 0px;
   border-radius: 50%;
   border: solid var(--color) 2px;
 }
@@ -69,7 +69,7 @@ footer {
   max-width: 90%;
   width: auto;
   display: block;
-  margin: 27px auto;
+  margin: 5px auto;
 }
 
 .link {
